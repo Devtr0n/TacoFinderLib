@@ -1,0 +1,6 @@
+C:\Workspace\TacoFinder\TacoFinderServiceLib\TacoFinderServiceLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\TacoFinder\TacoFinderServiceLib\TacoFinderServiceLib\bin\Debug\TacoFinderServiceLib.dll.config
+C:\Workspace\TacoFinder\TacoFinderServiceLib\TacoFinderServiceLib\bin\Debug\TacoFinderServiceLib.dll
+C:\Workspace\TacoFinder\TacoFinderServiceLib\TacoFinderServiceLib\bin\Debug\TacoFinderServiceLib.pdb
+C:\Workspace\TacoFinder\TacoFinderServiceLib\TacoFinderServiceLib\obj\Debug\TacoFinderServiceLib.dll
+C:\Workspace\TacoFinder\TacoFinderServiceLib\TacoFinderServiceLib\obj\Debug\TacoFinderServiceLib.pdb
